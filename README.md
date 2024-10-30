@@ -1,5 +1,19 @@
 # AuthApp
 
+Esta aplicación busca conectar el Frontend (Angular) con el backend (Node+Nest) que hicimos anteriormente, pero puntualmente veremos:
+
+1. Functional Guards
+2. Manejo de autenticación
+3. Señales
+4. Effectos
+5. Manejo de errores
+6. SweetAlert
+7. Determinar estado de autenticación
+8. Manejo de JWTs
+9. Headers de petición Http
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
